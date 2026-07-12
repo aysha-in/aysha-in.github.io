@@ -1,0 +1,243 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:8158/Index.html
+Subject: Aysha | My World
+Date: Sun, 12 Jul 2026 09:21:37 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--HQIrVv2YzGB2BVMXJJWgYZjngiWw3t3TqPzzK0nMcS----"
+
+
+------MultipartBoundary--HQIrVv2YzGB2BVMXJJWgYZjngiWw3t3TqPzzK0nMcS----
+Content-Type: text/html
+Content-ID: <frame-B540ECD41FB751684C46BE9156488EB3@mhtml.blink>
+Content-Transfer-Encoding: binary
+Content-Location: http://localhost:8158/Index.html
+
+<!DOCTYPE html><html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><link rel="stylesheet" type="text/css" href="cid:css-d8f4639c-1bce-4fe9-b3dd-05e28dfd8279@mhtml.blink" /><link rel="stylesheet" type="text/css" href="cid:css-54343351-1c22-4c05-bd57-dcff0a8d9a1e@mhtml.blink" /><!-- Injected code, this is not present in original code --><meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Injected code, this is not present in original code -->
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aysha | My World</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&amp;family=Playfair+Display:wght@700&amp;display=swap" rel="stylesheet">
+  
+</head><c-toggler style="transform: translate(2px, 367px); display: none;"></c-toggler>
+<body>
+
+  <div id="intro" style="opacity: 0; display: none;">
+    <button>Click Here ✨</button>
+  </div>
+  <audio id="bgSong" src="http://localhost:8158/song.mp3"></audio>
+
+  <div class="container" id="mainSite" style="display: block;">
+    <section class="hero">
+      <img src="http://localhost:8158/your.photo.jpg" alt="Aysha">
+      <h1>Hello! I'm Aysha</h1>
+      <p>BCA Student | Aspiring Web Developer</p>
+    </section>
+
+    <section class="card">
+      <h2>About Me</h2>
+      <p>
+        Hi! I'm Aysha - a dreamer, a learner, and an aspiring Web Developer. <br><br>
+        <b>My Passion:</b> I don't just want to build websites, I want to create experiences that are beautiful and meaningful. <br>
+        <b>My Skills:</b> HTML, CSS, JavaScript, Web Designing, Problem Solving <br>
+        <b>My Hobbies:</b> Photography, Movies, and Exploring new places for design inspiration.
+      </p>
+    </section>
+    <section class="card" style="text-align:center;">
+  <h2>Connect With Me</h2>
+  <div class="socials">
+    <a href="https://github.com/your_github_aysha-in" target="_blank">💻 GitHub</a>
+  </div>
+    </section>
+      <div class="socials">
+        <a href="https://instagram.com/ayshaahj" target="_blank">📷 Instagram</a>
+        <a href="https://open.spotify.com/user/31mvuphhdvedf67xgmqsautdqetq?si=Di8O5WK7RFinM9mAQ9vXCw&amp;utm_source=copy-link" target="_blank">🎵 Spotify</a>
+        <a href="mailto:aysha47785@gmail.com">📧 Email</a>
+      </div>
+    
+  </div>
+
+  
+
+</body></html>
+------MultipartBoundary--HQIrVv2YzGB2BVMXJJWgYZjngiWw3t3TqPzzK0nMcS----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Playfair+Display:wght@700&display=swap
+
+@charset "utf-8";
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDTbtPK_l2qI0s.woff2") format("woff2"); unicode-range: U+301, U+400-45F, U+490-491, U+4B0-4B1, U+2116; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDYbtPK_l2qI0s.woff2") format("woff2"); unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDZbtPK_l2qI0s.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: "Playfair Display"; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/playfairdisplay/v40/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiunDXbtPK_l2q.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2") format("woff2"); unicode-range: U+900-97F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 400; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2") format("woff2"); unicode-range: U+900-97F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 600; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2") format("woff2"); unicode-range: U+900-97F, U+1CD0-1CF9, U+200C-200D, U+20A8, U+20B9, U+20F0, U+25CC, U+A830-A839, U+A8E0-A8FF, U+11B00-11B09; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2") format("woff2"); unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF; }
+
+@font-face { font-family: Poppins; font-style: normal; font-weight: 700; font-display: swap; src: url("https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2") format("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
+------MultipartBoundary--HQIrVv2YzGB2BVMXJJWgYZjngiWw3t3TqPzzK0nMcS----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-54343351-1c22-4c05-bd57-dcff0a8d9a1e@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+body { font-family: Poppins, sans-serif; background: rgb(240, 248, 255); color: rgb(30, 58, 95); }
+
+#intro { position: fixed; top: 0px; left: 0px; width: 100%; height: 100%; background: linear-gradient(rgba(240, 248, 255, 0.9), rgba(240, 248, 255, 0.9)); display: flex; justify-content: center; align-items: center; z-index: 9999; transition: 1s; }
+
+#intro button { background: rgb(74, 144, 226); color: white; padding: 18px 40px; border: none; border-radius: 40px; font-size: 1.3rem; font-weight: 600; cursor: pointer; box-shadow: rgba(74, 144, 226, 0.3) 0px 8px 25px; animation: 2s ease 0s infinite normal none running pulse; }
+
+@keyframes pulse { 
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+.container { max-width: 900px; margin: auto; padding: 60px 20px; display: none; }
+
+.hero { text-align: center; padding: 40px 20px; }
+
+.hero img { width: 140px; height: 140px; border-radius: 50%; border: 5px solid rgb(74, 144, 226); margin-bottom: 20px; object-fit: cover; }
+
+.hero h1 { font-family: "Playfair Display", serif; font-size: 2.8rem; color: rgb(74, 144, 226); }
+
+.hero p { font-size: 1.1rem; color: rgb(74, 144, 226); }
+
+.card { background: rgba(255, 255, 255, 0.85); backdrop-filter: blur(10px); padding: 30px; margin: 30px 0px; border-radius: 25px; border: 1px solid rgba(74, 144, 226, 0.2); box-shadow: rgba(74, 144, 226, 0.1) 0px 8px 30px; }
+
+h2 { color: rgb(74, 144, 226); margin-bottom: 15px; font-family: "Playfair Display", serif; }
+
+.socials a { display: inline-block; background: rgb(74, 144, 226); color: white; padding: 12px 25px; border-radius: 30px; text-decoration: none; margin: 8px; font-weight: 600; transition: 0.3s; }
+
+.socials a:hover { background: rgb(53, 122, 189); transform: translateY(-3px); }
+------MultipartBoundary--HQIrVv2YzGB2BVMXJJWgYZjngiWw3t3TqPzzK0nMcS----
+Content-Type: text/css
+Content-Transfer-Encoding: binary
+Content-Location: cid:css-d8f4639c-1bce-4fe9-b3dd-05e28dfd8279@mhtml.blink
+
+@charset "utf-8";
+
+c-toggler { background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAQAAABKfvVzAAAACXBIWXMAAA7DAAAOwwHHb6hkAAAAGXRFWHRTb2Z0d2FyZQB3d3cuaW5rc2NhcGUub3Jnm+48GgAAAE9JREFUOMtjYBh0gBHO+k+cSkYilcPVMpHqpIHRwIgUFERp+I8SekQ5CY8WXH7AqYWJyGglqIERV3QykaYcV7DiSSwsODw8yJIGdTPQIAQAg9gKJl7UINwAAAAASUVORK5CYII="); background-position: center center; background-repeat: no-repeat; background-size: 24px; position: fixed; top: 0px; left: 0px; height: 30px; width: 30px; background-color: rgb(255, 255, 255); transform-origin: center center; border-radius: 50%; box-shadow: rgba(0, 0, 0, 0.4) -2px 2px 8px; z-index: 99999; opacity: 0.5; }
+
+c-object { color: rgb(153, 153, 255); text-decoration: underline; }
+
+c-toggler:active { box-shadow: rgba(0, 0, 0, 0.4) -1px 1px 4px; }
+
+c-line { display: block; }
+
+c-console { box-sizing: border-box; overflow-y: auto; position: fixed; top: 0px; left: 0px; height: 100vh; width: 100vw; background-color: rgb(49, 49, 49); z-index: 99998; color: rgb(238, 238, 238); font-family: var(--app-font-family); }
+
+c-console[title] { padding-top: 65px; animation: 0.1s ease 0s 1 normal none running --page-transition; }
+
+c-console br:last-of-type { display: none; }
+
+c-console textarea { color: rgb(255, 255, 255); background-color: inherit; caret-color: currentcolor !important; }
+
+c-input { display: flex; width: 100%; height: fit-content; }
+
+c-input::before { content: ">>"; margin: 0px 5px; height: 100%; }
+
+#__c-input { width: 100%; border: none; resize: none; height: 200px; position: relative; background-color: rgba(0, 0, 0, 0); overflow: visible; }
+
+#__c-input:focus { outline: none; }
+
+c-console[title]::before { position: fixed; top: 0px; left: 0px; width: 100vw; background-color: inherit; z-index: 999999; content: attr(title); display: flex; height: 44px; -webkit-box-align: center; align-items: center; -webkit-box-pack: center; justify-content: center; font-family: Verdana, Geneva, Tahoma, sans-serif; font-weight: 900; box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px; margin-bottom: 10px; color: rgb(255, 255, 255); font-size: medium; }
+
+c-message { position: relative; display: flex; border-bottom: 1px solid rgba(204, 204, 204, 0.4); margin-bottom: 35px; font-size: 0.9rem; flex-wrap: wrap; }
+
+c-code { position: relative; color: rgb(214, 211, 211); font-size: 1em; font-family: "Courier New", Courier, monospace; overflow-x: auto; white-space: pre; margin-bottom: 0px; }
+
+c-code::after { content: "use"; background-color: rgb(102, 102, 102); color: inherit; border-radius: 4px; padding: 0px 0.4rem; font-size: 0.6rem; }
+
+c-code::before { content: ">>"; padding: 0px 5px; font-style: italic; }
+
+c-key { font-size: 0.9rem; color: rgb(204, 102, 255); }
+
+c-message[log-level="error"] { border-bottom: 1px solid rgba(255, 255, 255, 0.4); background-color: rgb(68, 34, 34); color: inherit; }
+
+c-message[log-level="error"]::after { background-color: rgb(204, 67, 67); color: inherit; }
+
+c-message[log-level="warn"] { border-bottom: 1px solid rgba(255, 255, 255, 0.4); background-color: rgb(102, 51, 51); color: inherit; }
+
+c-message[log-level="warn"]::after { background-color: rgb(204, 105, 105); color: inherit; }
+
+c-stack:not(:empty) { content: attr(data-stack); font-family: Verdana, Geneva, Tahoma, sans-serif; position: absolute; top: 100%; right: 0px; display: flex; height: 20px; -webkit-box-align: center; align-items: center; -webkit-box-pack: justify; justify-content: space-between; width: 100vw; background-color: inherit; padding: 0px 5px; box-sizing: border-box; font-size: 0.8rem; color: inherit; }
+
+c-text { padding: 2px 2px 2px 10px; font-family: Verdana, Geneva, Tahoma, sans-serif; overflow: auto; box-sizing: border-box; max-width: 100vw; font-size: 0.9rem; width: 100%; white-space: break-spaces; }
+
+c-text.__c-boolean { color: rgb(130, 80, 177); }
+
+c-text.__c-number { color: rgb(97, 88, 221); }
+
+c-text.__c-symbol { color: rgb(111, 89, 172); }
+
+c-text.__c-function { color: rgb(145, 136, 168); font-family: "Courier New", Courier, monospace; font-size: 0.9rem; }
+
+c-text.__c-function::before { content: "ƒ"; margin: 0px 2px; font-style: italic; color: rgb(153, 153, 255); }
+
+c-text.__c-object, c-text.__c-undefined { color: rgb(118, 163, 118); }
+
+c-text.__c-string { color: rgb(59, 161, 59); }
+
+c-text.__c-string:not(.no-quotes)::before { content: "\""; margin-right: 2px; }
+
+c-text.__c-string:not(.no-quotes)::after { content: "\""; margin-left: 2px; }
+
+c-message.error c-text { overflow: unset; white-space: pre-wrap; word-break: break-word; color: rgb(255, 255, 255); }
+
+c-group { display: none; margin-left: 14px; }
+
+c-type[type="body-toggler"].__show-data + c-group { display: block; }
+
+c-type[type="body-toggler"]::before { display: inline-block; content: "▸"; margin-right: 2.5px; }
+
+c-type[type="body-toggler"]::after { content: "{...}"; }
+
+c-type[type="body-toggler"].__show-data::before { content: "▾"; }
+
+c-type[type="body-toggler"].__show-data::after { display: none; }
+
+c-table { display: table; width: 100%; border-collapse: collapse; border-spacing: 0px; font-size: 0.9rem; color: rgb(214, 211, 211); border: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-row { display: table-row; border-bottom: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-row:last-child { border-bottom: none; }
+
+c-table c-row:first-child { font-weight: bold; }
+
+c-table c-cell { display: table-cell; padding: 5px; border-bottom: 1px solid rgba(204, 204, 204, 0.4); }
+
+c-table c-cell:not(:last-child) { border-left: 1px solid rgba(204, 204, 204, 0.4); }
+
+@-webkit-keyframes --page-transition { 
+  0% { opacity: 0; transform: translate3d(0px, 50%, 0px); }
+  100% { opacity: 1; transform: translate3d(0px, 0px, 0px); }
+}
+
+@keyframes --page-transition { 
+  0% { opacity: 0; transform: translate3d(0px, 50%, 0px); }
+  100% { opacity: 1; transform: translate3d(0px, 0px, 0px); }
+}
+------MultipartBoundary--HQIrVv2YzGB2BVMXJJWgYZjngiWw3t3TqPzzK0nMcS------
